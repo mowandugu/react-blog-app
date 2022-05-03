@@ -14,7 +14,7 @@ This is a simple blogging web application made using:
 ```php
 
 {
-    status: "Working on MongoDB Api"
+    status: "Working on REST API with MongoDB"
 }
 
 ```
